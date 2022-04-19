@@ -10,4 +10,5 @@
 #### - [Detailed exploratory data analysis with python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python)
 #### - [House price just with categorical features](https://www.kaggle.com/code/hosseinbehjat/house-price-just-with-categorical-features)
 #### - [Handling missing values](https://www.kaggle.com/code/dansbecker/handling-missing-values)
+#### - [House pricing explained step by step](https://www.kaggle.com/code/binarymachine/house-pricing-explained-step-by-step)
 #### - Other tutorials can be found in the notebook itself
