@@ -23,3 +23,4 @@
 ###### - Other tutorials can be found in the notebook itself
 #### The notebook with the final code is in the main branch.
 ###### The code in this notebook has been written according to the PEP 8 standard
+#### You can find the corresponding Kaggle kernel of the House Prices competition [here](https://www.kaggle.com/code/adibouayjan/house-price-step-by-step-modeling).
